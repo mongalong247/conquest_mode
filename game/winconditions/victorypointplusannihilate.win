@@ -1,0 +1,25 @@
+name = "victory_point"
+scar_file = "DATA:Scar/WinConditions/VictoryPointPlusAnnihilate.scar"
+fe_name = "$561770"
+fe_priority = 0
+score_display = vp_ticker
+show_time = true
+requires_vp_ticker = true
+
+fe_option_name = "$11038967"
+options =
+{
+	{
+		fe_name = "$40644",
+		value = 250,
+	},
+	{
+		default = true,
+		fe_name = "$40641",
+		value = 500,
+	},
+	{
+		fe_name = "$40642",
+		value = 1000,
+	},
+}
