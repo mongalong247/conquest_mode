@@ -1,6 +1,0 @@
-hidden = false
-name = "Conquest Mode"
-description = "The port of the new Wikinger: European Theater of War game mode to the base game"
-dependencies = 
-{
-}
