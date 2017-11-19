@@ -1,0 +1,32 @@
+Archive name="87e90e67a0c4407eab499d2fcd2765e0" blocksize="262144"
+TOCStart name="data" alias="data" path="" relativeroot="data"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgt|ttf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(abp)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+		Override wildcard=".*\.(dds|mua|muax|rpb|sua|tga)$" minsize="-1" maxsize="-1" vt="none" ct=""
+		Override wildcard=".*\.(gfx)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct=""
+		Override wildcard=".*\.(ai|events|info|lua|options|scar|scenref|squadai)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+		Override wildcard=".*\.(scenariomarker|sgb|ter|sme|exclude|path)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct=""
+		Override wildcard=".*\.(smf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(bsc)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+	FileSettingsEnd
+	G:\m\conquest_mode\conquest Intermediate Cache\Intermediate Files\data\game\winconditions\conquest.win
+	G:\m\conquest_mode\conquest Intermediate Cache\Intermediate Files\data\scar\winconditions\conquest.scar
+TOCEnd
+TOCStart name="info" alias="info" path="" relativeroot="info"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	G:\m\conquest_mode\conquest Intermediate Cache\Intermediate Files\info\87e90e67a0c4407eab499d2fcd2765e0.info
+TOCEnd
+TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	G:\m\conquest_mode\conquest Intermediate Cache\Intermediate Files\attrib\attrib\ebps\gameplay\objective_point_mp.rgd
+TOCEnd
+TOCStart name="locale" alias="locale" path="" relativeroot="locale"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+	FileSettingsEnd
+	G:\m\conquest_mode\conquest Intermediate Cache\Intermediate Files\locale\english\english.ucs
+TOCEnd

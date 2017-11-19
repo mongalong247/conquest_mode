@@ -13,11 +13,11 @@
 									<RelativeName>conquest.win</RelativeName>
 								</d2p1:anyType>
 							</Children>
-							<IsExpanded>false</IsExpanded>
+							<IsExpanded>true</IsExpanded>
 							<Name>winconditions</Name>
 						</d2p1:anyType>
 					</Children>
-					<IsExpanded>false</IsExpanded>
+					<IsExpanded>true</IsExpanded>
 					<Name>game</Name>
 				</d2p1:anyType>
 				<d2p1:anyType i:type="Folder">
@@ -29,15 +29,15 @@
 									<RelativeName>conquest.scar</RelativeName>
 								</d2p1:anyType>
 							</Children>
-							<IsExpanded>false</IsExpanded>
+							<IsExpanded>true</IsExpanded>
 							<Name>winconditions</Name>
 						</d2p1:anyType>
 					</Children>
-					<IsExpanded>false</IsExpanded>
+					<IsExpanded>true</IsExpanded>
 					<Name>scar</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Info</Alias>
@@ -49,7 +49,38 @@
 					<Name>Conquest Mode</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
+		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Attrib</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnAttributes">
+							<RelativeName>conquest.xml</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>attrib</Name>
+				</d2p1:anyType>
+			</Children>
+			<IsExpanded>true</IsExpanded>
+		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Locale</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnFile">
+							<BurnSettings i:nil="true" />
+							<RelativeName>locale\english\english.ucs</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>english</Name>
+				</d2p1:anyType>
+			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>87e90e67-a0c4-407e-ab49-9d2fcd2765e0</Guid>
