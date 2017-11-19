@@ -38,9 +38,10 @@
 				</d2p1:anyType>
 				<d2p1:anyType i:type="Folder">
 					<Children>
-						<d2p1:anyType i:type="BurnIcons">
-							<PackSize>1024</PackSize>
-							<RelativeName>ui\docicons</RelativeName>
+						<d2p1:anyType i:type="Folder">
+							<Children />
+							<IsExpanded>false</IsExpanded>
+							<Name>docicons</Name>
 						</d2p1:anyType>
 					</Children>
 					<IsExpanded>true</IsExpanded>
