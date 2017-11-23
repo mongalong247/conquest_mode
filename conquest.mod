@@ -36,6 +36,16 @@
 					<IsExpanded>true</IsExpanded>
 					<Name>scar</Name>
 				</d2p1:anyType>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnIcons">
+							<PackSize>1024</PackSize>
+							<RelativeName>data\ui</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>ui</Name>
+				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
