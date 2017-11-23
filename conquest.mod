@@ -59,21 +59,7 @@
 					<Name>Conquest Mode</Name>
 				</d2p1:anyType>
 				<d2p1:anyType i:type="BurnFile">
-					<BurnSettings i:type="GenericImageToDataRGTBurnSettings">
-						<AlphaEdge>false</AlphaEdge>
-						<BlackBorder>false</BlackBorder>
-						<CompressTextures>true</CompressTextures>
-						<FlipImage>false</FlipImage>
-						<ForceFormat>false</ForceFormat>
-						<Metadata i:nil="true" />
-						<MipDrop>0</MipDrop>
-						<MipMap>true</MipMap>
-						<PreferredFormat>Default</PreferredFormat>
-						<RescaleNonPowerTwo>true</RescaleNonPowerTwo>
-						<TexSharpen>false</TexSharpen>
-						<MixInputs></MixInputs>
-						<MixInputsDefaults></MixInputsDefaults>
-					</BurnSettings>
+					<BurnSettings i:nil="true" />
 					<RelativeName>conquest_mode.tga</RelativeName>
 				</d2p1:anyType>
 			</Children>
