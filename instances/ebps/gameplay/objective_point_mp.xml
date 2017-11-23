@@ -183,14 +183,14 @@
 			<bool name="tacmap_team_only" value="False" />
 			<locstring name="tooltip_txt" value="2" mod="87e90e67a0c4407eab499d2fcd2765e0" />
 			<int name="ui_priority" value="0" />
-			<icon name="minimap_icon" value="" />
+			<icon name="minimap_icon" value="ModIcons_87e90e67a0c4407eab499d2fcd2765e0_icons_resources_minimap_icon_op_mode" />
 			<icon name="portrait_icon_winter" value="Icons_portraits_building_common_victory_point_w_portrait" />
 			<group name="speaker_alt">
 				<string name="code_1" value="" />
 				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
-			<float name="minimap_icon_scale" value="1" />
+			<float name="minimap_icon_scale" value="0.75" />
 			<icon name="portrait_icon_summer" value="Icons_portraits_building_common_victory_point_s_portrait" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="extra_text" value="0" />
@@ -201,7 +201,7 @@
 			<locstring name="help_text_world" value="0" />
 			<locstring name="extra_text_world" value="0" />
 			<enum name="map_rotation_type_override" value="no_override" />
-			<icon name="symbol_icon_name" value="Icons_symbols_flag_victory_symbol" />
+			<icon name="symbol_icon_name" value="ModIcons_87e90e67a0c4407eab499d2fcd2765e0_icons_resources_minimap_icon_op_mode" />
 			<enum name="occlusion_state" value="can_be_occluded" />
 			<enum name="decorator_visibility" value="default" />
 			<string name="decorator_marker_name" value="Marker_FX_UI" />
