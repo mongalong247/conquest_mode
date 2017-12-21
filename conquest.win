@@ -1,6 +1,6 @@
 name = "conquest_mode"
 scar_file = "data:scar/winconditions/conquest.scar"
-fe_name = "Conquest by Wikinger: EToW"
+fe_name = "Conquest by Wikinger"
 fe_priority = 0
 score_display = vp_ticker
 show_time = true
