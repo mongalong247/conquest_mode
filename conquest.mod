@@ -12,6 +12,10 @@
 									<BurnSettings i:nil="true" />
 									<RelativeName>conquest.win</RelativeName>
 								</d2p1:anyType>
+								<d2p1:anyType i:type="BurnFile">
+									<BurnSettings i:nil="true" />
+									<RelativeName>conquestHZ.win</RelativeName>
+								</d2p1:anyType>
 							</Children>
 							<IsExpanded>true</IsExpanded>
 							<Name>winconditions</Name>
@@ -27,6 +31,10 @@
 								<d2p1:anyType i:type="BurnFile">
 									<BurnSettings i:nil="true" />
 									<RelativeName>conquest.scar</RelativeName>
+								</d2p1:anyType>
+								<d2p1:anyType i:type="BurnFile">
+									<BurnSettings i:nil="true" />
+									<RelativeName>conquestHZ.scar</RelativeName>
 								</d2p1:anyType>
 							</Children>
 							<IsExpanded>true</IsExpanded>
@@ -54,7 +62,7 @@
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description>[h1][i]"Conquest"[/i] by[url=http://steamcommunity.com/sharedfiles/filedetails/?id=818323162] Wikinger: European Theater of War [/url][/h1]
+					<Description>[h1][i]"Conquest"[/i] by Wikinger: European Theater of War[/h1]
 
 [h1]What is it?[/h1]
 
@@ -62,7 +70,7 @@ Originally designed for[url=http://steamcommunity.com/sharedfiles/filedetails/?i
 
 [h1]What's different?[/h1]
 
-All resource giving points on the map will be replaced by Objective Points - they gives resources just like a territory point, however each point also is worth one ticket.
+All resource giving points on the map will be replaced by Objective Points - they give resources just like a territory point, however each point also is worth one ticket.
 
 [h1]How do I win?[/h1]
 
@@ -75,7 +83,9 @@ Conquest is designed to work with the base game and most mods.
 
 There is one known issue where the OKW sWS trucks are not able to set up on objective point sectors, if you are a modder and want to maximize compatibility with Conquest mode you will need to remove this requirement for the OKW sWS trucks to be able to set up in all territories: required_not / required_sector_type / sector_type_victory
 
-If you have any further questions about conquest mode or would like to give feedback leave us a comment below or alternatively head on over to our[url=https://discord.gg/GVBDgeR] discord [/url]and talk with the developers directly!
+If you have any further questions about conquest mode or would like to give feedback leave us a comment below or alternatively head on over to our discord and talk with the developers directly!
+
+[url=https://discord.gg/GVBDgeR][img]http://i.imgur.com/TuKHZzF.gif[/img][/url]
 
 --
 
