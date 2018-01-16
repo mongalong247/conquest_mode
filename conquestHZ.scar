@@ -10,6 +10,7 @@ local function Camera_Init()
 	for i = 1,World_GetPlayerCount()
 	do
 		local player = World_GetPlayerAt(i);
+		Player_SetPopCapOverride(player, 250);
 	end
 end
 
