@@ -8,6 +8,8 @@ Known Issue: sWS Trucks required_not / required_sector_type / sector_type_victor
 Future Development: Once it has been pushed out to the community.
 Looking at game length will be addressed by adjusting the number of tickets in each mode.
 Possibly having "dynamic tickets" where the game will calculate map size and number of players and adjust the number of tickets - therefore it will be a "short/medium/long" game rather than set tickets
-High Zoom camera options
-Pop cap options
+High Zoom camera options - done 11/1/18
+
+Pop cap options - adding 250 pop cap
+
 Resource limit options
