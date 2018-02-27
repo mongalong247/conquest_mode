@@ -16,6 +16,10 @@
 									<BurnSettings i:nil="true" />
 									<RelativeName>conquestHZ.win</RelativeName>
 								</d2p1:anyType>
+								<d2p1:anyType i:type="BurnFile">
+									<BurnSettings i:nil="true" />
+									<RelativeName>conquestHZclean.win</RelativeName>
+								</d2p1:anyType>
 							</Children>
 							<IsExpanded>true</IsExpanded>
 							<Name>winconditions</Name>

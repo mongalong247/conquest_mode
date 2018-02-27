@@ -23,18 +23,18 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'1/17/2018'</value>
+      <value>'2/27/2018'</value>
     </define>
     <omit-trace-statements>false</omit-trace-statements>
     <optimize>true</optimize>
     <verbose-stacktraces>false</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\m\conquest_mode\conquest Intermediate Cache</path-element>
+      <path-element>G:\m\conquest_mode\conquest Intermediate Cache</path-element>
     </source-path>
     <include-libraries />
   </compiler>
   <file-specs>
-    <path-element>C:\m\conquest_mode\conquest Intermediate Cache\ModIcons_87e90e67a0c4407eab499d2fcd2765e0.mxml</path-element>
+    <path-element>G:\m\conquest_mode\conquest Intermediate Cache\ModIcons_87e90e67a0c4407eab499d2fcd2765e0.mxml</path-element>
   </file-specs>
   <default-background-color>#000000</default-background-color>
   <default-frame-rate>30</default-frame-rate>
