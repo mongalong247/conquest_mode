@@ -2,7 +2,7 @@
 <display:MovieClip xmlns:fx='http://ns.adobe.com/mxml/2009' xmlns:display='flash.display.*'>
 	<fx:Script>
 		<![CDATA[
-		[Embed(source='G:/m/conquest_mode/data/ui/icons_resources_minimap_icon_op_mode.png')]
+		[Embed(source='D:/m/conquest_mode/data/ui/icons_resources_minimap_icon_op_mode.png')]
 		public static var icons_resources_minimap_icon_op_mode:Class;
 		]]>
 	</fx:Script>

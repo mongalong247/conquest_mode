@@ -1,6 +1,6 @@
 name = "conquest_mode_hz"
 scar_file = "data:scar/winconditions/conquestHZ.scar"
-fe_name = "Conquest by Wikinger + Zoom"
+fe_name = "Conquest by Wikinger/250 popcap + Zoom"
 fe_priority = 0
 score_display = vp_ticker
 show_time = true

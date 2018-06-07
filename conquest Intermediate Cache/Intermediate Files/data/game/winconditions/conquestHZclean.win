@@ -1,6 +1,6 @@
 name = "conquest_mode_hz_clean"
 scar_file = "data:scar/winconditions/conquestHZ.scar"
-fe_name = "Conquest by Wikinger (no commanders/bulletins) + Zoom"
+fe_name = "Conquest by Wikinger/250PC/No Bulletins/Commanders + Zoom"
 fe_priority = 0
 score_display = vp_ticker
 show_time = true
