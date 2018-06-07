@@ -20,6 +20,10 @@
 									<BurnSettings i:nil="true" />
 									<RelativeName>data\game\winconditions\conquestHZclean.win</RelativeName>
 								</d2p1:anyType>
+								<d2p1:anyType i:type="BurnFile">
+									<BurnSettings i:nil="true" />
+									<RelativeName>data\game\winconditions\conquestHZclean125.win</RelativeName>
+								</d2p1:anyType>
 							</Children>
 							<IsExpanded>true</IsExpanded>
 							<Name>winconditions</Name>
@@ -39,6 +43,10 @@
 								<d2p1:anyType i:type="BurnFile">
 									<BurnSettings i:nil="true" />
 									<RelativeName>data\scar\winconditions\conquestHZ.scar</RelativeName>
+								</d2p1:anyType>
+								<d2p1:anyType i:type="BurnFile">
+									<BurnSettings i:nil="true" />
+									<RelativeName>data\scar\winconditions\conquestHZ125.scar</RelativeName>
 								</d2p1:anyType>
 							</Children>
 							<IsExpanded>true</IsExpanded>
