@@ -14,12 +14,20 @@
 			<FileHash>777ccd838f67bf2ba4b3950711c2cf48</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\m\conquest_mode\data\game\winconditions\conquestHZclean125.win</FileName>
+			<FileHash>228bde7b2d1fa87246c0c15c83e7bbfd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\m\conquest_mode\data\scar\winconditions\conquest.scar</FileName>
 			<FileHash>d162c778f324a76980e747bc6f2dbeee</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\m\conquest_mode\data\scar\winconditions\conquestHZ.scar</FileName>
 			<FileHash>dac95843ce4e379a5d08e60cd42a302b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\m\conquest_mode\data\scar\winconditions\conquestHZ125.scar</FileName>
+			<FileHash>e4c97bd6c0ad276822f664fec0679196</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\m\conquest_mode\data\ui\icons_resources_minimap_icon_op_mode.png</FileName>
